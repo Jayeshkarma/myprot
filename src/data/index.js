@@ -98,7 +98,7 @@ function Footer() {
         </Nav>
         <SocialMediaIcons>
           {/* <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon> */}
-          {/* <SocialMediaIcon href={Bio.twitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
+          {/* <SocialMediaIcon href={Jayesh Karmaitter} target="display"><TwitterIcon /></SocialMediaIcon> */}
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
           {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
         </SocialMediaIcons>
