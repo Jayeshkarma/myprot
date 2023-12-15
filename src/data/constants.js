@@ -202,7 +202,7 @@ export const experiences = [
   {
     id: 1,
     img: "https://media.licdn.com/dms/image/C510BAQGoYjQW4g3pzg/company-logo_100_100/0/1630593117907/rsvr_tech_logo?e=1710374400&v=beta&t=GU9w7-c4652R0EBvmaykYrkO2SYF7lteoKuNdWmslKA",
-    role: "React | React native lead",
+    role: "Frontend Developer manager/lead",
     company: "RSVR Tech",
     date: "Oct 2021 - Present",
     // desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
@@ -273,7 +273,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://cdgi.edu.in/images/CDGI%20Logo.png",
     school: "Chamelidevi Group of Institutions, Gram Umrikheda, Near Toll Naka, Khandwa Road, Indore 452020",
     date: "Oct 2020 - Aug 2020",
     grade: "8.71 CGPA",
